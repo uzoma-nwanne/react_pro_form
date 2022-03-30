@@ -34,6 +34,5 @@ https://jsonplaceholder.typicode.com/
 -   [ ] The email property should only be sent IF they have checked the box to subscribe
 -   [ ] If the request is successful display a success message that disappears after 2 seconds (e.g. ‘Thanks for your submission [first name]’), clear all form fields
 -   [ ] If the request is NOT successful, display a failure message (e.g. ‘Oops something went wrong’), do NOT clear all fields
-
 -   [ ] Send a video to your mentor showing the successful submission and the network request with the payload being sent by recording a loom video and using the browser tools to show the network request
 -   [ ] Make sure you show the scenario where a user subscribes to the newsletter and the scenario where they do NOT subscribe
